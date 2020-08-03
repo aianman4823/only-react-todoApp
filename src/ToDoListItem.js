@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import "./ToDoListItem.css";
+import "./static/ToDoListItem.css";
 
 class ToDoListItem extends Component {
   render() {
